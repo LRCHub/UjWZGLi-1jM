@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "クリプトナイト",
+  "base_artist": "3 Doors Down",
+  "createdAt": "2026-02-17T08:45:41.365653Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "has_synced": false,
+      "path": "select/pl_01_Kryptonite_3_Doors_Down.txt"
+    }
+  ]
+}
